@@ -1,5 +1,6 @@
 # Lazyminer
 The Lazyminer project, Non-Axiomatic Reasoning for rule mining on mobile devices.
+Publication: http://cadia.ru.is/workshops/aegap2018/papers/AEGAP_2018_Hammer.pdf
 
 A full example project including sources and a compiled app can be downloaded at:
 
@@ -7,6 +8,10 @@ https://drive.google.com/drive/folders/0B8Z4Yige07tBRVE2OGRWRVpPYW8?usp=sharing
 
 LazyMiner.java is a wrapper for OpenNARS allowing for proper Narsese encoding of sensory values and usage of its QA API.
 PatientSimulator.java is one example of how LazyMiner can be used.
+
+Discussion
+""""""""""
+https://groups.google.com/forum/?nomobile=true#!searchin/open-nars/lazyminer%7Csort:date/open-nars/B-IjA4uQ8wE/EVviAolxAwAJ
 
 Why isn't the Android project open-sourced?
 """""""""""""""""""""""""""""""""""""""""""
