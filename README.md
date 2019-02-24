@@ -2,6 +2,7 @@
 ![LazyMiner Logo](https://user-images.githubusercontent.com/8284677/53295699-044c3b80-37f9-11e9-8410-fc02ee7004a5.jpg)
 The Lazyminer project, Non-Axiomatic Reasoning for rule mining on mobile devices.
 Publication: 
+
 http://cadia.ru.is/workshops/aegap2018/papers/AEGAP_2018_Hammer.pdf
 
 A full example project including sources and a compiled app can be downloaded at:
