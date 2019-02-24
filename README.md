@@ -10,7 +10,7 @@ A full example project including sources and a compiled app can be downloaded at
 https://drive.google.com/drive/folders/0B8Z4Yige07tBRVE2OGRWRVpPYW8?usp=sharing
 
 LazyMiner.java is a wrapper for OpenNARS allowing for proper Narsese encoding of sensory values and usage of its QA API.
-PatientSimulator.java is one example of how LazyMiner can be used.
+PatientSimulator.java is one example of how LazyMiner can be used, simulating a patient's daily routine, providing information to OpenNARS as events that also the Android API's provide.
 
 Discussion
 ----------
