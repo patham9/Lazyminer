@@ -11,9 +11,9 @@ LazyMiner.java is a wrapper for OpenNARS allowing for proper Narsese encoding of
 PatientSimulator.java is one example of how LazyMiner can be used.
 
 Discussion
-""""""""""
+----------
 https://groups.google.com/forum/?nomobile=true#!searchin/open-nars/lazyminer%7Csort:date/open-nars/B-IjA4uQ8wE/EVviAolxAwAJ
 
 Why isn't the Android project open-sourced?
-"""""""""""""""""""""""""""""""""""""""""""
+-------------------------------------------
 To my experience Android has short-lived API, which is why only the relevant sources were added and not the Android project itself. I always seemed a lot easier to integrate sources in a fresh Android project than to compile one for a previous Android version, it's a versioning mess not seen elsewhere and Android studio a terrible resource hog.
